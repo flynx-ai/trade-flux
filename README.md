@@ -3,12 +3,12 @@
 <div align="center">
     <img src="logo.svg" width="200" height="200" alt="Trade Flux Logo"/>
     <h3>🌊 欢迎来到 Trade Flux 计划</h3>
-    <p>一个现代化的加密货币交易自动化解决方案</p>
+    <p>AI驱动的加密货币交易自动化解决方案</p>
 </div>
 
 ## 🌟 愿景
 
-Trade Flux 计划 致力于为加密货币交易者提供一个智能、高效、安全的自动化交易工具链。
+Trade Flux 计划 致力于为加密货币交易者提供一个智能、高效、安全的自动化交易工具链。极速买入一揽子币种。未来将会深度和Mlion的AI预测集成。最终实现AI自动交易。
 
 ## ✨ 特性
 
@@ -79,7 +79,7 @@ trader.execute()
 
 ## 🤝 贡献
 
-欢迎所有形式的贡献，无论是新功能、bug修复还是文档改进。请查看我们的[贡献指南](CONTRIBUTING.md)了解更多详情。
+欢迎所有形式的贡献，无论是新功能、bug修复还是文档改进。
 
 ## 📄 许可证
 
@@ -88,5 +88,5 @@ trader.execute()
 ---
 
 <div align="center">
-    <sub>Built with ❤️ by the community</sub>
+    <sub>Built with ❤️ by the Flynx.ai community</sub>
 </div>
