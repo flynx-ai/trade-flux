@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="200" height="200" fill="#1a1a1a"/>
+  
+  <!-- 动态流线 -->
+  <path d="M40,100 C60,60 140,140 160,100 S60,60 40,100" 
+        stroke="#3498db" 
+        stroke-width="4" 
+        fill="none" 
+        opacity="0.6"/>
+  
+  <!-- 第二条流线 -->
+  <path d="M40,120 C60,80 140,160 160,120 S60,80 40,120" 
+        stroke="#2ecc71" 
+        stroke-width="4" 
+        fill="none" 
+        opacity="0.6"/>
+        
+  <!-- 交易图表元素 -->
+  <g stroke="#fff" stroke-width="2" fill="none">
+    <path d="M60,140 L90,110 L120,130 L150,70"/>
+    <circle cx="90" cy="110" r="3" fill="#fff"/>
+    <circle cx="120" cy="130" r="3" fill="#fff"/>
+  </g>
+  
+  <!-- 装饰点 -->
+  <circle cx="150" cy="70" r="5" fill="#e74c3c"/>
+</svg>
