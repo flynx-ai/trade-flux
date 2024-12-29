@@ -58,16 +58,23 @@ trader.execute()
 ```
 ## 💫 功能演示
 
-### 批量限价卖出演示
+## 💫 功能演示
+
+### 批量限价卖出功能
 <div align="center">
-  <video src="demo/sell_whole_video.mov" width="100%"></video>
+  <a href="demo/sell_whole_video.mov">
+    <img src="demo/screenshot_sell_whole.png" width="80%" alt="批量限价卖出演示"/>
+    点击查看视频演示
+  </a>
 </div>
 
-### 单币种限价卖出演示
+### 单币种限价卖出功能
 <div align="center">
-  <video src="demo/sell_limit_video.mov" width="100%"></video>
+  <a href="demo/sell_limit_video.mov">
+    <img src="demo/screenshot_sell_limit.png" width="80%" alt="单币种限价卖出演示"/>
+    点击查看视频演示
+  </a>
 </div>
-
 
 ## 🚀 开发路线图
 
