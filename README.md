@@ -56,6 +56,18 @@ config = {
 trader = TradeFlux(config)
 trader.execute()
 ```
+## 💫 功能演示
+
+### 批量限价卖出演示
+<div align="center">
+  <video src="demo/sell_whole_video.mov" width="100%"></video>
+</div>
+
+### 单币种限价卖出演示
+<div align="center">
+  <video src="demo/sell_limit_video.mov" width="100%"></video>
+</div>
+
 
 ## 🚀 开发路线图
 
