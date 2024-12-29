@@ -56,15 +56,12 @@ config = {
 trader = TradeFlux(config)
 trader.execute()
 ```
-## 💫 功能演示
-
-## 💫 功能演示
 
 ## 💫 功能演示视频
 
 ### 🎬 可用功能演示
-- [批量限价卖出功能演示](demo/sell whole video.mov) - 展示如何一键卖出投资组合中的所有代币
-- [单币种限价卖出功能演示](demo/sell limit video.mov) - 展示如何对单个代币进行限价卖出操作
+- [批量限价卖出功能演示](demo/sell_whole_video.mov) - 展示如何一键卖出投资组合中的所有代币
+- [单币种限价卖出功能演示](demo/sell_limit_video.mov) - 展示如何对单个代币进行限价卖出操作
 
 *点击链接下载观看完整演示视频*
 
